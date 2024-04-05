@@ -10,7 +10,7 @@ This is a spam filter application which reads your message and uses regular expr
 
 - **Responsive Design**: The design adjusts itself to different screen sizes.
 - **Spam Filter**: Checks whether or not the message is spam.
-"
+
 ## Technologies Used
 
 - HTML
